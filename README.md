@@ -2,8 +2,6 @@
 
 A data science project developing a parametric insurance model to provide financial protection against weather-related risks such as excess rainfall and drought.
 
-**Internship Project at WRMS, Gurgaon**
-
 ---
 
 ## 📋 Project Overview
